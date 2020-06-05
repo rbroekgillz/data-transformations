@@ -1,0 +1,16 @@
+{
+  "name": "reduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oldestPerson.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "moment": "^2.26.0"
+  }
+}
